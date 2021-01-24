@@ -24,6 +24,10 @@ const IndexPage = () => {
       <section>
         Cafe List
       </section>
+
+      <section>
+        Recommend Cafe List
+      </section>
     </main>
   )
 }
