@@ -20,6 +20,10 @@ const IndexPage = () => {
       <h1 style={headingStyles}>
         Hello, Pipeline's members~
       </h1>
+
+      <section>
+        Cafe List
+      </section>
     </main>
   )
 }
